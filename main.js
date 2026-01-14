@@ -1,5 +1,5 @@
 // CDN Configuration
-const PDF_FILENAME = 'BOLETTE 画册_1_1.pdf';
+const PDF_FILENAME = 'CATALOGUE-BOLETTE.pdf';
 
 // Embedded Page Flip Sound (Base64) to ensure it works offline/locally without external URL issues
 // Short "paper flip" sound
